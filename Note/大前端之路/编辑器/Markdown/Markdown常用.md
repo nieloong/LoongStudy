@@ -1,4 +1,12 @@
+---
+title: "Markdown常用"
+author: Loongking
+date: 20201015
+output: word_document
+---
+
 ## 标题
+
 `# ` 标题一
 
 `## ` 标题二
@@ -64,9 +72,12 @@ lau
 
 > Tips: 只有在编辑 Markdown 时插件才可使用。
 
-Usage
-粘贴图片路径上传：SHIFT + P
-直接选择图片上传：SHIFT + O
+### Usage
+
+粘贴图片路径上传：`SHIFT + P`
+
+直接选择图片上传：`SHIFT + O`
+
 功能2 需要升级 vscode 到 v1.17+
 
 + 图片

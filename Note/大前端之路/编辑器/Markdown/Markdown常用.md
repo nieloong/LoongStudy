@@ -54,12 +54,27 @@ lau
 
 标明具体语言可高亮：&#96;&#96;&#96;java 或 &#96;&#96;&#96;javascript 或 &#96;&#96;&#96;python
 
-
 ## 图片+超链接+发送邮件
+
++ **qiniu-upload-image**
+
+一个 VS Code 插件，编写 Markdown 时可以快捷上传本地图片获取七牛图床外链。
+
+![demo](http://image.nie-long.com/demo.gif)
+
+> Tips: 只有在编辑 Markdown 时插件才可使用。
+
+Usage
+粘贴图片路径上传：SHIFT + P
+直接选择图片上传：SHIFT + O
+功能2 需要升级 vscode 到 v1.17+
+
 + 图片
+
 ```shell
 ![描述](http://logo.baidu.com/images/logo.png)
 ```
+
 ![图片示例](https://note.youdao.com/yws/api/image/normal/1564388180753?userId=weixinobU7VjsqhbCf5P0Y3rfUnnQUH_BA)
 
 + 超链接

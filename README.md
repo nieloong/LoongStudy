@@ -1,10 +1,13 @@
-<!--
- * @Author: nieloong@aliyun.com
- * @Date: 2020-10-12 10:24:38
- * @LastEditors: Loong Nie
- * @LastEditTime: 2020-10-12 10:25:06
- * @FilePath: /LoongStudy/README.md
- * @Descripttion:
- * @version:
--->
 ## LoongKing个人笔记及练习
+
+欢迎各位交流
+
+QQ: 641728086
+
+E-mail: nieloong@aliyun.com
+
+微信
+
+![WX20201026-111402-20201026](http://image.nie-long.com/WX20201026-111402-20201026.png)
+
+> Ps: 好友申请标注下 “nieloong/LoongStudy 交流用”

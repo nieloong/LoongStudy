@@ -8,6 +8,6 @@ E-mail: nieloong@aliyun.com
 
 微信
 
-![WX20201026-111402-20201026](http://image.nie-long.com/WX20201026-111402-20201026.png)
+![图片不显示，手动加:13873180291](http://image.nie-long.com/WX20201026-111402-20201026.png)
 
 > Ps: 好友申请标注下 “nieloong/LoongStudy 交流用”

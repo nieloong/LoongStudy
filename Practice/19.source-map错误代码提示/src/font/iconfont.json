@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "17469340",
+      "name": "智能-主题报告",
+      "font_class": "zhineng-zhuti-01",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "17469396",
+      "name": "智能-自助分析",
+      "font_class": "zhineng-zizhu-01",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "17470039",
+      "name": "服务-单点登录",
+      "font_class": "1fuwu-dandiandenglu-01",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "17470041",
+      "name": "服务-标准API 接口",
+      "font_class": "1fuwu-APIjiekou",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}
